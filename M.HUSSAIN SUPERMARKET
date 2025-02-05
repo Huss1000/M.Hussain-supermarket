@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M. Hussain Supermarket - Kano, Nigeria</title>
+    <meta name="description" content="M. Hussain Supermarket - Serving the Nassarawa Local Government of Kano State, Nigeria. Quality products at great prices.">
+</head>
+<body>
+    <header>
+        <h1>Welcome to M. Hussain Supermarket</h1>
+        <p>Your Trusted Store in Nassarawa, Kano State, Nigeria</p>
+    </header>
+    
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>At M. Hussain Supermarket, we provide a wide range of products, from food to household items. We're proud to serve the Nassarawa Local Government area of Kano State, Nigeria.</p>
+        </section>
+        
+        <section>
+            <h2>Contact Us</h2>
+            <p>For inquiries or orders, you can reach us:</p>
+            <ul>
+                <li>Phone: 0816161699954</li>
+                <li>Email: <a href="mailto:hussainiisahlawan3@gmail.com">hussainiisahlawan3@gmail.com</a></li>
+                <li>Address: Nassarawa Local Government, Kano State, Nigeria</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Our Products</h2>
+            <ul>
+                <li>Fresh Fruits</li>
+                <li>Vegetables</li>
+                <li>Household Items</li>
+                <li>Clothing</li>
+                <li>Electronics</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 M. Hussain Supermarket. All rights reserved.</p>
+    </footer>
+</body>
+</html>
